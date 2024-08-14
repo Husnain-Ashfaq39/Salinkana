@@ -58,8 +58,26 @@ $ yarn build
 
 ## Features
 
-* Admin CRUD operations
-* Firebase authentication
-* Firebase auth provider authentication
-* Account creation and edit
+This store is designed to offer you an exceptional shopping experience with a wide range of features to ensure you find the perfect pair of glasses. Here are some of the key features of our online store:
+
+Filter and Sort Options
+Search Functionality
+Customer Support:
+Live Chat Assistance
+Customer Reviews
+Free Shipping
+Easy Returns
+Secure Payments
+Special Offers:
+Discounts and Promotions
+Loyalty Program
+Accessibility:
+Mobile-Friendly
+Account Features:
+User Login
+Authentication and Session Management
+Profile Management
+Wishlist
+Order Tracking
+Email Notifications and Alerts
 
